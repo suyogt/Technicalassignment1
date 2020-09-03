@@ -1,0 +1,7 @@
+C:\Users\Suyog Thengale\source\repos\Technicalassignment1\Technicalassignment1\bin\Debug\Technicalassignment1.exe.config
+C:\Users\Suyog Thengale\source\repos\Technicalassignment1\Technicalassignment1\bin\Debug\Technicalassignment1.exe
+C:\Users\Suyog Thengale\source\repos\Technicalassignment1\Technicalassignment1\bin\Debug\Technicalassignment1.pdb
+C:\Users\Suyog Thengale\source\repos\Technicalassignment1\Technicalassignment1\obj\Debug\Technicalassignment1.csprojAssemblyReference.cache
+C:\Users\Suyog Thengale\source\repos\Technicalassignment1\Technicalassignment1\obj\Debug\Technicalassignment1.csproj.CoreCompileInputs.cache
+C:\Users\Suyog Thengale\source\repos\Technicalassignment1\Technicalassignment1\obj\Debug\Technicalassignment1.exe
+C:\Users\Suyog Thengale\source\repos\Technicalassignment1\Technicalassignment1\obj\Debug\Technicalassignment1.pdb
